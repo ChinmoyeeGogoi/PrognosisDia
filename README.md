@@ -1,4 +1,4 @@
-Prognosis represents a revolutionary paradigm shift in medical diagnosis and
+PrognosisDia represents a revolutionary paradigm shift in medical diagnosis and
 patient care.
  This innovative system harnesses the power of advanced data analytics, artificial
 intelligence and personalized medicine to revolutionize the way we approach disease
